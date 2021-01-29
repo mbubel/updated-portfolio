@@ -1,0 +1,32 @@
+header {
+  font-size: 20px;
+  align-content: center;
+}
+.nav-link {
+  color: red;
+}
+body {
+  background-color: black;
+  font-family: "Dosis";
+  font-size: 50px;
+}
+
+#homepage {
+  position: relative;
+}
+.centered {
+  color: rgba(248, 248, 247, 0.815);
+  position: absolute;
+  top: 15%;
+  left: 63%;
+  transform: translate(-50%, -50%);
+}
+
+.bio {
+  margin-top: 5%;
+  font-size: 20px;
+}
+
+#image {
+  height: 100%;
+}
