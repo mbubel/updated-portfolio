@@ -5,6 +5,18 @@ header {
 .nav-link {
   color: red;
 }
+.navbar-left {
+  position: absolute;
+left: 15%;
+}
+.navbar-center {
+  position: absolute;
+left: 22%;
+}
+.navbar-right {
+  position: absolute;
+  right: 15%;
+}
 body {
   background-color: black;
   font-family: "Dosis";
@@ -30,3 +42,4 @@ body {
 #image {
   height: 100%;
 }
+
